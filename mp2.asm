@@ -4,10 +4,7 @@ default rel
 global asm_dot_product
 
 asm_dot_product:
-    ; Input: RCX = A, RDX = B, R8 = n (number of elements)
-    ; Output: XMM0 = sdot (float result)
-
-    xorps xmm0, xmm0         ; Clear XMM0 for accumulation
+    xorps xmm0, xmm0         ; Set xmm0 to 0
 
 .loop:
     test r8, r8              ; Check if n == 0
