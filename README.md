@@ -8,5 +8,8 @@ In the comparison of execution times between the C and assembly kernels, the ass
 
 # Program Output
 
+![image](https://github.com/user-attachments/assets/e8df56b6-1530-4c7c-8529-96c388aee16b)
+
 ![image](https://github.com/user-attachments/assets/9a15bbe1-04e2-4a76-92b2-e5e21d9feb5a)
+
 ![image](https://github.com/user-attachments/assets/323340a4-6270-408e-ab6e-9348dd3fbf34)
