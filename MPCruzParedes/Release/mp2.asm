@@ -1,3 +1,5 @@
+; Cruz, Jullian Gabriel || Paredes, Bill Jethro - S17
+
 section .text
 bits 64
 default rel

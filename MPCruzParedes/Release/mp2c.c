@@ -1,3 +1,5 @@
+// Cruz, Jullian Gabriel || Paredes, Bill Jethro - S17
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
